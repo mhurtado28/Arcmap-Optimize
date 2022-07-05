@@ -2,7 +2,7 @@
 
 ANTES DE USAR ESTAS LINEAS DE CODIGO, SE DEBEN CARGAR LOS POLIGONOS QUE VAS A USAR EN LA TABLA DE CONTENIDO Y LOS NOMBRES DEBEN COINCIDIR CON LOS NOMBRES EN EL CODIGO.
 
-##### Despues, Colocar el poligono sobre el que realizarás el geoproceso (El polígono del predio o área de interes)
+##### Despues, cargar en arcmap el poligono sobre el que realizarás el geoproceso (El polígono del predio o área de interes)
 *in_feature =  "nombre_primera capa #; nombre_segundaCapa #"* 
 
 ##### Colocar la dirección de la carpeta en donde quieres alojar el resultado y terminar con el nombre que le quieres dar al archivo resultante de la intersección. 
